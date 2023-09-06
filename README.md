@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rivonirina-prog
+- 👋 Hi, I’m @Rivonirina-prog 
 - 👀 I’m Fullstack developer
--💞️ I’m looking to collaborate on web application on internal audit
+- 💞️ I’m looking to collaborate on web application on internal audit
 - 📫 How to reach me : my email is eartvonyconsulting@gmail.com
 
 <!---
